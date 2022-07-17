@@ -1,0 +1,28 @@
+1	Phân biệt các câu lệnh DML & DDL? DML, DDL bao gồm các câu lệnh nào?
+2	Cơ sở dữ liệu (database) là gì?
+3	Trình bày về mô hình thực thể mối quan hệ (ERD - Entity-Relationship Diagram)? Trong mô hình thực thể mối quan hệ có những thành phần nào?
+4	Các bước chuyển đổi từ ERD -> Table?
+5	Các bước chuẩn hóa dữ liệu?
+6	Ràng buộc (constraint) là gì? Các loại ràng buộc trong MySQL?
+7	Khóa chính (Primary key) là gì? “Khóa chính chứa một hoặc nhiều thuộc tính khóa” nghĩa là gì?
+8	Khóa ngoại (foreign key) là gì?
+9	Phân biệt DELETE và TRUNCATE?
+10	Làm sao để truy vấn dữ liệu từ nhiều bảng?
+11	Các loại JOIN? Phân biệt?
+12	Phân biệt AND và OR?
+13	Phân biệt GROUP BY và ORDER BY?
+14	Muốn nối chuỗi trong MySQL thì sử dụng gì?
+15	Yêu cầu tính điểm trung bình của tất cả các sinh viên thì làm thế nào?
+16	Yêu cầu tính điểm trung bình của từng bạn sinh viên thì làm thế nào?
+17	Yêu cầu hiển thị tên sinh viên và điểm trung bình tương ứng, chỉ hiển thị các bạn có điểm trung bình lớn hơn 5 thì làm thế nào?
+18	Hiển thị danh sách sinh viên và lớp học tương ứng thì làm thế nào (hai bảng Student và Class có cột chung ClassID)?
+19	Hiển thị danh sách sinh viên theo thứ tự tăng dần của điểm thi?
+20	Hiển thị danh sách sinh viên theo thứ tự giảm dần của họ tên, nếu họ tên trùng nhau thì sắp xếp theo tăng dần của tuổi?
+21	Hiển thị các sinh viên có họ là ‘Le’ và tên là ‘Hai’?
+22	Hiển thị các sinh viên có tên bắt đầu là ‘C’?
+23	Phân biệt JOIN và UNION?
+24	Phân biệt UNION và UNION ALL?
+25	Phân biệt EXIST và IN?
+26	Làm sao để có thể tăng tốc độ truy vấn? Nhược điểm là gì?
+27	Các dạng tham số ở SP?
+28	Phân biệt SP, Trigger, Function?

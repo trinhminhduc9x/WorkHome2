@@ -1,0 +1,25 @@
+1	CSS là gì? Các cách nhúng CSS vào tài liệu html? Độ ưu tiên?
+2	Phân biệt giữa bộ chọn class và bộ chọn id?
+3	Trình bày mô hình hộp (box model) trong CSS?
+4	Trình bày thuộc tính float, clear?
+5	"Thuộc tính position dùng để làm gì?
+Phân biệt các giá trị: static, absolute, relative và fixed, sticky?"
+6	Responsive Web Design là gì?
+7	Làm thế nào để tạo 1 trang web responsive?
+8	Bootstrap là gì?
+9	Một số thành phần thông dụng ở Bootstrap?
+10	Phân biệt Static web và Dynamic web?
+11	Phân biệt 2 phương thức GET/POST
+12	Phân biệt request/response
+13	Phân biệt forward/redirect
+14	"JSP là gì? Nói: “Về bản chất JSP cũng chính là Servlet” đúng hay sai? Giải thích?
+So sánh giống và khác nhau giữa JSP và Servlet?"
+15	JSTL là gì? Giới thiệu một số thẻ bạn đã sử dụng JSTL?
+16	Trình bày kiến trúc MVC? Vai trò của các thành phần trong kiến trúc MVC?
+17	Mô tả cách thực hiện tạo và lấy kết quả 1 câu query bất kỳ bằng JDBC?
+17.1. Statement và PreparedStatement <- SQL Injection
+18	Sự giống, khác nhau và ưu nhược điểm của MVC1 & MVC2?
+19	Kỹ thuật sử dụng transaction bằng JDBC là như thế nào?
+20	Các tính chất của Transaction?
+21	Phương pháp gọi 1 SP ở JDBC?
+22	Phân biệt Ant, Maven, Gradle?
