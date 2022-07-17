@@ -1,14 +1,5 @@
 USE CaseStudyforDatabase;
 
--- delete * from table_name;
--- delete * from table_name;
--- delete * from table_name;
--- delete * from table_name;
--- delete * from table_name;
--- delete * from table_name;
--- delete * from table_name;
-
-
 INSERT INTO casestudyfordatabase.loai_khach
  VALUES (1, 'Diamond'),
 (2, 'Platinium'),
